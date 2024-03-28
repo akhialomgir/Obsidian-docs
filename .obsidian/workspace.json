@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f88d84ab57b23bfe",
+        "id": "db22fd7a8ce73a69",
         "type": "tabs",
         "children": [
           {
-            "id": "433e50819c02cfc8",
+            "id": "27fa045670b31799",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "视口（Viewport）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "视口（Viewport）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "视口（Viewport）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "视口（Viewport）.md"
               }
+            }
+          },
+          {
+            "id": "10388d8612e1c153",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +153,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "433e50819c02cfc8",
+  "active": "27fa045670b31799",
   "lastOpenFiles": [
-    "Test.md"
+    "视口（Viewport）.md",
+    "视口（Viewport）.md",
+    "The laws of.md",
+    "Obsidian Hotkeys.md",
+    "Law of Inertia.md",
+    "Isaac Newton.md",
+    "img/Screenshot 2024-03-27 113148.png",
+    "img",
+    "Untitled.canvas"
   ]
 }
