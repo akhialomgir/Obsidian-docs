@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "亏损与盈余.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b3ca08005ebf5cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "前景理论·劣.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,13 +128,30 @@
                 "file": "前景理论·劣.md"
               }
             }
+          },
+          {
+            "id": "b2bd4693c6b7696f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "851830bd0688d484",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,9 +164,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc44cee99a1a44df",
+  "active": "433e50819c02cfc8",
   "lastOpenFiles": [
     "亏损与盈余.md",
+    "Untitled.canvas",
+    "2024-04-06.md",
     "前景理论·劣.md",
     "Zettelkasten.md",
     "Music theory.md",
