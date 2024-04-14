@@ -1,2 +1,5 @@
-["obsidian-git", "obsidian-vimrc-support"]
-
+[
+  "obsidian-git",
+  "obsidian-vimrc-support",
+  "obsidian-excalidraw-plugin"
+]
