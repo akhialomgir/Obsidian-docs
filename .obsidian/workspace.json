@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "68ed3af7b46d2a5f",
+        "id": "c4ba7c4085b863d0",
         "type": "tabs",
         "children": [
           {
-            "id": "8462d362e755dbe9",
+            "id": "6f2b2429ba09a0a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "哈希表.md",
+                "file": "二叉树.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be6af8952a34958e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "回溯.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "哈希表.md",
+                "file": "回溯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "哈希表.md",
+                "file": "回溯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "哈希表.md"
+                "file": "回溯.md"
               }
             }
           },
@@ -156,17 +169,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8462d362e755dbe9",
+  "active": "be6af8952a34958e",
   "lastOpenFiles": [
-    "算法.md",
-    "2024-04-20.md",
-    "2024-04-19.md",
+    "二叉树.md",
+    "回溯.md",
+    "栈与队列.md",
     "哈希表.md",
-    "链表.md",
     "数组.md",
     "Paint/线条.md",
+    "2024-05-27.md",
+    "2024-04-19.md",
+    "2024-04-20.md",
+    "双指针.md",
+    "三数之和.md",
+    "算法.md",
+    "字符串.md",
+    "链表.md",
     "Paint",
-    "Untitled.md",
     "线条.md",
     "Excalidraw/Plan.excalidraw.md",
     "Excalidraw",
@@ -181,7 +200,6 @@
     "The laws of.md",
     "Obsidian Hotkeys.md",
     "Law of Inertia.md",
-    "Isaac Newton.md",
     "img/Screenshot 2024-03-27 113148.png",
     "img"
   ]
