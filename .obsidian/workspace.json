@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c4ba7c4085b863d0",
+        "id": "513a9eaa9b16b90b",
         "type": "tabs",
         "children": [
           {
-            "id": "6f2b2429ba09a0a6",
+            "id": "118c60f0526acc1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二叉树.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be6af8952a34958e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "回溯.md",
+                "file": "算法/差分数组.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "回溯.md",
+                "file": "算法/差分数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "回溯.md",
+                "file": "算法/差分数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "回溯.md"
+                "file": "算法/差分数组.md"
               }
             }
           },
@@ -169,25 +156,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be6af8952a34958e",
+  "active": "118c60f0526acc1e",
   "lastOpenFiles": [
-    "二叉树.md",
-    "回溯.md",
-    "栈与队列.md",
-    "哈希表.md",
-    "数组.md",
-    "Paint/线条.md",
+    "算法/差分数组.md",
+    "算法/差分数组",
+    "板绘/线条.md",
+    "Excalidraw/Plan.excalidraw.md",
+    "算法/二叉树.md",
+    "算法/算法.md",
+    "Untitled",
+    "算法",
     "2024-05-27.md",
+    "算法/字符串.md",
+    "算法/回溯.md",
+    "算法/栈与队列.md",
+    "算法/哈希表.md",
+    "算法/数组.md",
     "2024-04-19.md",
     "2024-04-20.md",
-    "双指针.md",
+    "算法/双指针.md",
     "三数之和.md",
-    "算法.md",
-    "字符串.md",
-    "链表.md",
-    "Paint",
+    "算法/链表.md",
+    "板绘",
     "线条.md",
-    "Excalidraw/Plan.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2024-04-12 10.55.09.excalidraw.md",
     "Excalidraw/Drawing 2024-04-12 10.51.59.excalidraw.md",
@@ -199,7 +190,6 @@
     "视口（Viewport）.md",
     "The laws of.md",
     "Obsidian Hotkeys.md",
-    "Law of Inertia.md",
     "img/Screenshot 2024-03-27 113148.png",
     "img"
   ]
