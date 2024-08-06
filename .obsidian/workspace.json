@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "084e66bcbb2cd674",
+        "id": "6289254b4d67fcd2",
         "type": "tabs",
         "children": [
           {
-            "id": "5aa890adf4888e97",
+            "id": "c56e9fb28e4dba92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "198. 打家劫舍.md",
+                "file": "2466. 统计构造好字符串的方案数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5770334bb9bd8cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "213. 打家劫舍 II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb4c25a4f81e1e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LCR 166. 珠宝的最高价值.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e679811a73a571c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "198. 打家劫舍.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "198. 打家劫舍.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "198. 打家劫舍.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -157,10 +193,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8b657a5b19a32cc",
+  "active": "e679811a73a571c6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "LCR 166. 珠宝的最高价值.md",
+    "213. 打家劫舍 II.md",
+    "2466. 统计构造好字符串的方案数.md",
+    "取余.md",
+    "377. 组合总和 Ⅳ.md",
     "动态规划.md",
     "198. 打家劫舍.md",
+    "746. 使用最小花费爬楼梯.md",
+    "Untitled 1.md",
+    "70. 爬楼梯.md",
     "算法/差分数组.md",
     "算法/差分数组",
     "板绘/线条.md",
@@ -179,18 +224,9 @@
     "2024-04-20.md",
     "算法/双指针.md",
     "三数之和.md",
-    "算法/链表.md",
     "板绘",
-    "线条.md",
     "Excalidraw",
-    "Excalidraw/Drawing 2024-04-12 10.55.09.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-12 10.51.59.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-12 10.49.42.excalidraw.md",
-    "2024-04-12.md",
     "Untitled.canvas",
-    "前景理论·劣.md",
-    "亏损与盈余.md",
-    "视口（Viewport）.md",
     "img/Screenshot 2024-03-27 113148.png",
     "img"
   ]
