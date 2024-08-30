@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "548386da0b4338a5",
+        "id": "723bdbaa9aa95fbd",
         "type": "tabs",
         "children": [
           {
-            "id": "78ffd558dba03c91",
+            "id": "d9f90bfc9ca28648",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "712. 两个字符串的最小ASCII删除和.md",
+                "file": "300. 最长递增子序列.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "L",
+                "query": "LIS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "712. 两个字符串的最小ASCII删除和.md",
+                "file": "300. 最长递增子序列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "712. 两个字符串的最小ASCII删除和.md",
+                "file": "300. 最长递增子序列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "712. 两个字符串的最小ASCII删除和.md"
+                "file": "300. 最长递增子序列.md"
               }
             }
           },
@@ -156,10 +157,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78ffd558dba03c91",
+  "active": "d9f90bfc9ca28648",
   "lastOpenFiles": [
-    "583. 两个字符串的删除操作.md",
+    "1671. 得到山形数组的最少删除次数.md",
+    "1092. 最短公共超序列.md",
+    "1458. 两个子序列的最大点积.md",
+    "673. 最长递增子序列的个数.md",
+    "97. 交错字符串.md",
     "712. 两个字符串的最小ASCII删除和.md",
+    "583. 两个字符串的删除操作.md",
     "72. 编辑距离.md",
     "LCR 166. 珠宝的最高价值.md",
     "LCR 095. 最长公共子序列.md",
@@ -167,7 +173,6 @@
     "取余.md",
     "746. 使用最小花费爬楼梯.md",
     "70. 爬楼梯.md",
-    "673. 最长递增子序列的个数.md",
     "518. 零钱兑换 II.md",
     "494. 目标和.md",
     "416. 分割等和子集.md",
@@ -180,10 +185,6 @@
     "2787. 将一个数字表示成幂的和的方案数.md",
     "2466. 统计构造好字符串的方案数.md",
     "213. 打家劫舍 II.md",
-    "哈希表.md",
-    "算法/链表.md",
-    "算法/算法.md",
-    "算法/栈与队列.md",
     "算法",
     "板绘",
     "Paint",
