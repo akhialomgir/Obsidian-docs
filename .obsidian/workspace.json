@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dfa9ea5fc399fcf0",
+        "id": "636e70763370e8e5",
         "type": "tabs",
         "children": [
           {
-            "id": "e797f9f0ef2db7ce",
+            "id": "88b5c5c28c45cd6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "309. 买卖股票的最佳时机含冷冻期.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3b68f538562c759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "188. 买卖股票的最佳时机 IV.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:状态机",
+                "query": "todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "309. 买卖股票的最佳时机含冷冻期.md",
+                "file": "188. 买卖股票的最佳时机 IV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "309. 买卖股票的最佳时机含冷冻期.md",
+                "file": "188. 买卖股票的最佳时机 IV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "309. 买卖股票的最佳时机含冷冻期.md"
+                "file": "188. 买卖股票的最佳时机 IV.md"
               }
             }
           },
@@ -169,10 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e797f9f0ef2db7ce",
+  "active": "8bd3e96f813aa6d4",
   "lastOpenFiles": [
     "122. 买卖股票的最佳时机 II.md",
-    "Untitled.md",
+    "188. 买卖股票的最佳时机 IV.md",
     "309. 买卖股票的最佳时机含冷冻期.md",
     "1626. 无矛盾的最佳球队.md",
     "动态规划.md~",
