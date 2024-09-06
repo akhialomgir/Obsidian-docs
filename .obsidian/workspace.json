@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "636e70763370e8e5",
+        "id": "2998ae7f86e4094e",
         "type": "tabs",
         "children": [
           {
-            "id": "88b5c5c28c45cd6f",
+            "id": "61c03129edba6648",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "188. 买卖股票的最佳时机 IV.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "tag:#algorithm  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "188. 买卖股票的最佳时机 IV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "188. 买卖股票的最佳时机 IV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "188. 买卖股票的最佳时机 IV.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,33 +150,33 @@
   },
   "active": "8bd3e96f813aa6d4",
   "lastOpenFiles": [
-    "122. 买卖股票的最佳时机 II.md",
-    "188. 买卖股票的最佳时机 IV.md",
-    "309. 买卖股票的最佳时机含冷冻期.md",
-    "1626. 无矛盾的最佳球队.md",
-    "动态规划.md~",
-    "1964. 找出到每个位置为止最长的有效障碍赛跑路线.md",
-    "Untitled 1.md",
-    "1671. 得到山形数组的最少删除次数.md",
-    "300. 最长递增子序列.md",
-    "1092. 最短公共超序列.md",
-    "1458. 两个子序列的最大点积.md",
-    "673. 最长递增子序列的个数.md",
-    "97. 交错字符串.md",
-    "712. 两个字符串的最小ASCII删除和.md",
-    "583. 两个字符串的删除操作.md",
-    "72. 编辑距离.md",
-    "LCR 166. 珠宝的最高价值.md",
     "LCR 095. 最长公共子序列.md",
-    "取余.md",
+    "算法/二叉树.md",
+    "动态规划.md",
+    "LCR 166. 珠宝的最高价值.md",
+    "2915. 和为目标值的最长子序列的长度.md",
+    "2826. 将三个组排序.md",
+    "2787. 将一个数字表示成幂的和的方案数.md",
+    "2466. 统计构造好字符串的方案数.md",
+    "1964. 找出到每个位置为止最长的有效障碍赛跑路线.md",
+    "1671. 得到山形数组的最少删除次数.md",
+    "1626. 无矛盾的最佳球队.md",
+    "1458. 两个子序列的最大点积.md",
+    "1092. 最短公共超序列.md",
     "746. 使用最小花费爬楼梯.md",
-    "70. 爬楼梯.md",
+    "712. 两个字符串的最小ASCII删除和.md",
+    "673. 最长递增子序列的个数.md",
     "518. 零钱兑换 II.md",
+    "583. 两个字符串的删除操作.md",
     "494. 目标和.md",
     "416. 分割等和子集.md",
     "377. 组合总和 Ⅳ.md",
-    "34. 在排序数组中查找元素的第一个和最后一个位置.md",
     "322. 零钱兑换.md",
+    "309. 买卖股票的最佳时机含冷冻期.md",
+    "300. 最长递增子序列.md",
+    "279. 完全平方数.md",
+    "213. 打家劫舍 II.md",
+    "动态规划.md~",
     "算法",
     "板绘",
     "Paint",
