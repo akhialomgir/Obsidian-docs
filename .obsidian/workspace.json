@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61c03129edba6648",
+            "id": "58b168501357ad1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2786. 访问数组中的位置使分数最大.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#algorithm  ",
+                "query": "2786",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2786. 访问数组中的位置使分数最大.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2786. 访问数组中的位置使分数最大.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2786. 访问数组中的位置使分数最大.md"
+              }
             }
           },
           {
@@ -148,34 +157,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8bd3e96f813aa6d4",
+  "active": "58b168501357ad1b",
   "lastOpenFiles": [
-    "LCR 095. 最长公共子序列.md",
-    "算法/二叉树.md",
+    "2786. 访问数组中的位置使分数最大.md",
     "动态规划.md",
-    "LCR 166. 珠宝的最高价值.md",
+    "算法/算法.md",
+    "算法/链表.md",
+    "板绘/线条.md",
+    "算法/栈与队列.md",
+    "算法/数组.md",
+    "算法/差分数组.md",
+    "算法/字符串.md",
+    "算法/回溯.md",
+    "算法/哈希表.md",
+    "算法/双指针.md",
+    "算法/二叉树.md",
+    "LCR 095. 最长公共子序列.md",
     "2915. 和为目标值的最长子序列的长度.md",
     "2826. 将三个组排序.md",
     "2787. 将一个数字表示成幂的和的方案数.md",
-    "2466. 统计构造好字符串的方案数.md",
     "1964. 找出到每个位置为止最长的有效障碍赛跑路线.md",
     "1671. 得到山形数组的最少删除次数.md",
     "1626. 无矛盾的最佳球队.md",
     "1458. 两个子序列的最大点积.md",
     "1092. 最短公共超序列.md",
-    "746. 使用最小花费爬楼梯.md",
     "712. 两个字符串的最小ASCII删除和.md",
     "673. 最长递增子序列的个数.md",
-    "518. 零钱兑换 II.md",
     "583. 两个字符串的删除操作.md",
-    "494. 目标和.md",
-    "416. 分割等和子集.md",
-    "377. 组合总和 Ⅳ.md",
-    "322. 零钱兑换.md",
-    "309. 买卖股票的最佳时机含冷冻期.md",
-    "300. 最长递增子序列.md",
-    "279. 完全平方数.md",
-    "213. 打家劫舍 II.md",
+    "518. 零钱兑换 II.md",
     "动态规划.md~",
     "算法",
     "板绘",
