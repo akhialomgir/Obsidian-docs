@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "53fe6d02c5299250",
+        "id": "07b620061b42c361",
         "type": "tabs",
         "children": [
           {
-            "id": "8ecac3df9f2a58e7",
+            "id": "89eded58d916aef5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "968. 监控二叉树.md",
+                "file": "3074. 重新分装苹果.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "398dc0e95199a1f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2279. 装满石头的背包的最大数量.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "551b94e163d35d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1833. 雪糕的最大数量.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed746d7cfd804537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1005. K 次取反后最大化的数组和.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfc07518b59078b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3158. 求出出现两次数字的 XOR 值.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -48,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#树形DP  ",
+                "query": "1005. K 次取反后最大化的数组和",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "968. 监控二叉树.md",
+                "file": "3158. 求出出现两次数字的 XOR 值.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "968. 监控二叉树.md",
+                "file": "3158. 求出出现两次数字的 XOR 值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "968. 监控二叉树.md"
+                "file": "3158. 求出出现两次数字的 XOR 值.md"
               }
             }
           },
@@ -156,9 +205,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ecac3df9f2a58e7",
+  "active": "cfc07518b59078b3",
   "lastOpenFiles": [
+    "3158. 求出出现两次数字的 XOR 值.md",
+    "1005. K 次取反后最大化的数组和.md",
+    "1971. 寻找图中是否存在路径.md",
+    "2279. 装满石头的背包的最大数量.md",
+    "3282. 到达数组末尾的最大得分.md",
+    "3074. 重新分装苹果.md",
+    "1833. 雪糕的最大数量.md",
+    "1046. 最后一块石头的重量.md",
+    "1438. 绝对差不超过限制的最长连续子数组.md",
+    "496. 下一个更大元素 I.md",
+    "209. 长度最小的子数组.md",
+    "547. 省份数量.md",
+    "算法/栈与队列.md",
+    "239. 滑动窗口最大值.md",
+    "42. 接雨水.md",
+    "单调栈.md",
+    "739. 每日温度.md",
     "968. 监控二叉树.md",
+    "算法/二叉树.md",
     "板绘/线条.md",
     "687. 最长同值路径.md",
     "543. 二叉树的直径.md",
@@ -166,24 +233,6 @@
     "2246. 相邻字符不同的最长路径.md",
     "337. 打家劫舍 III.md",
     "3281. 范围内整数的最大得分.md",
-    "最长回文子序列.md",
-    "1039. 多边形三角剖分的最低得分.md",
-    "LCR 095. 最长公共子序列.md",
-    "3282. 到达数组末尾的最大得分.md",
-    "算法/数组.md",
-    "算法/二叉树.md",
-    "34. 在排序数组中查找元素的第一个和最后一个位置.md",
-    "2786. 访问数组中的位置使分数最大.md",
-    "动态规划.md",
-    "算法/算法.md",
-    "算法/链表.md",
-    "算法/栈与队列.md",
-    "算法/差分数组.md",
-    "算法/字符串.md",
-    "算法/回溯.md",
-    "算法/哈希表.md",
-    "算法/双指针.md",
-    "2915. 和为目标值的最长子序列的长度.md",
     "动态规划.md~",
     "算法",
     "板绘",
